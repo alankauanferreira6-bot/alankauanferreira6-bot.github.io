@@ -51,12 +51,12 @@ a {
 
 #habilidades {
     background-color: #9ccec6;
-    color:#4f86e4;
+    color: #4f86e4;
 }
 
 #projetos {
     background-color: #9ccec6;
-    color:#4f86e4;
+    color: #4f86e4;
 }
 
 #contato {
@@ -82,11 +82,12 @@ img {
     border: 9px solid rgb(245, 239, 231);
     border-radius: 50%;
 }
+
 body {
     display: flex;
-    justify-content:center ;
+    justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-color: #9ccec6;
-
+    background: #2A7B9B;
+    background: linear-gradient(90deg, rgba(42, 123, 155, 1) 10%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 90%);
 }
