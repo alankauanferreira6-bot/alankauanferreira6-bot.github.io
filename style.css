@@ -42,6 +42,7 @@ a {
    ======================================== */
 
 #hero {
+  display: flex;  
     background-color: oi
 }
 
