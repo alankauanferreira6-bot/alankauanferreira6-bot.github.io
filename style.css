@@ -69,13 +69,13 @@ a {
    ======================================== */
 
 footer {
-    background-color: #000000;
+    background-color:#000000;
     width: 100%;
     text-align: center;
 }
 
 footer p {
-    color: rgb(0, 0, 0);
+    color: rgb(253, 252, 252);
 }
 
 img {
